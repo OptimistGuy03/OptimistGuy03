@@ -28,7 +28,7 @@ Here’s a quick rundown of the technologies I work with:
 ## 🌍 Find Me Online
 
 - [LinkedIn](https://www.linkedin.com/in/om-gupta-a54747319/)
-- [GitHub](https://github.com/TechnoMage21)
+- [GitHub](https://github.com/OptimistGuy03/)
 - [LeetCode](https://leetcode.com/u/DevByte/)
 
 ## 📬 How to Reach Me
