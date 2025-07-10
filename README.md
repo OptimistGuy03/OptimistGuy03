@@ -23,7 +23,7 @@ Here’s a quick rundown of the technologies I work with:
 
 ## 📈 My Favourite Programming Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=TechnoMage21&show_icons=true&hide_title=true&hide_border=true&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=OptimistGuy03&show_icons=true&hide_title=true&hide_border=true&layout=compact&theme=radical)
 
 ## 🌍 Find Me Online
 
