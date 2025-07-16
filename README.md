@@ -27,7 +27,7 @@ Here’s a quick rundown of the technologies I work with:
 
 ## 🌍 Find Me Online
 
-- [LinkedIn](https://www.linkedin.com/in/coder-om-751-zip)
+- [LinkedIn](https://www.linkedin.com/in/om-gupta-a54747319/)
 - [GitHub](https://github.com/OptimistGuy03/)
 
 
