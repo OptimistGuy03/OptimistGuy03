@@ -35,7 +35,7 @@ Here’s a quick rundown of the technologies I work with:
 
 I’m always open to new connections! Whether it's for collaboration, tech talks, or just friendly discussions, feel free to reach out:
 
-- 📬 **DM me on [LinkedIn](https://www.linkedin.com/in/om-gupta-751-zip)** or hit me up through my other links.
+- 📬 **DM me on [LinkedIn](https://www.linkedin.com/in/om-gupta-a54747319/)** or hit me up through my other links.
 
 
 ## 🤝 Support & Contributions
