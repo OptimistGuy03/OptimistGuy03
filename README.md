@@ -10,7 +10,7 @@ Hi, I’m **Om Gupta**, a passionate **Full Stack Web Developer** with a deep lo
 - 🌱 **Learning**: React for Frontend Development, exploring Bootstrap for UI styling, and sharpening my problem-solving skills.
 - 👯 **Looking to collaborate on**: Web development projects, particularly Frontend/UI/UX, and any tech-driven challenges!
 - 💬 **Ask me about**: Web Development, SQL, Web Design, Basic Encryption, and more!
-- 📫 **How to reach me**: Feel free to connect with me on social, and let’s chat!
+
 
 ## 💻 Skills & Technologies
 
@@ -27,16 +27,12 @@ Here’s a quick rundown of the technologies I work with:
 
 ## 🌍 Find Me Online
 
-- [LinkedIn](https://www.linkedin.com/in/om-gupta-a54747319/)
 - [GitHub](https://github.com/OptimistGuy03/)
 
 
 ## 📬 How to Reach Me
 
 I’m always open to new connections! Whether it's for collaboration, tech talks, or just friendly discussions, feel free to reach out:
-
-- 📬 **DM me on [LinkedIn](https://www.linkedin.com/in/om-gupta-a54747319/)** or hit me up through my other links.
-
 
 ## 🤝 Support & Contributions
 
