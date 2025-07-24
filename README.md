@@ -2,14 +2,14 @@
 
 
 
-Hi, I’m **Om Gupta**, a passionate **Full Stack Web Developer** with a deep love for coding and creating impactful web experiences. Whether you're here to explore my projects, collaborate on something exciting, or learn more about my work, I’m thrilled you stopped by!
+Hi, I’m **Om Gupta**, a passionate **MCA** Graduate with a deep love for coding and creating impactful web experiences. Whether you're here to explore my projects, collaborate on something exciting, or learn more about my work, I’m thrilled you stopped by!
 
 ## 🚀 About Me
 
-- 🔭 **Currently working on**: Updating my personal website and diving deeper into modern frameworks and tools.
+- 🔭 **Currently working on**: Updating my skills and diving deeper into modern frameworks and tools.
 - 🌱 **Learning**: React for Frontend Development, exploring Bootstrap for UI styling, and sharpening my problem-solving skills.
 - 👯 **Looking to collaborate on**: Web development projects, particularly Frontend/UI/UX, and any tech-driven challenges!
-- 💬 **Ask me about**: Web Development, SQL, Web Design, Basic Encryption, and more!
+- 💬 **Ask me about**: Web Development, SQL, Web Design,and more!
 
 
 ## 💻 Skills & Technologies
@@ -17,7 +17,7 @@ Hi, I’m **Om Gupta**, a passionate **Full Stack Web Developer** with a deep lo
 Here’s a quick rundown of the technologies I work with:
 
 - **Languages**: C, C++, Python, HTML, PHP, JavaScript
-- **Frameworks & Libraries**: React (Frontend), Bootstrap (UI Styling)
+- **Frameworks & Libraries**:Bootstrap (UI Styling)
 - **Tools**: XAMPP, Git, VS Code, Microsoft excel, & Matplotlib Libary.
 - **Documentation**: Microsoft Word, Microsoft Powerpoint(Presentation)
 
