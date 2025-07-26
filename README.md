@@ -7,7 +7,7 @@ Hi, I’m **Om Gupta**, a passionate **MCA** Graduate with a deep love for codin
 ## 🚀 About Me
 
 - 🔭 **Currently working on**: Updating my skills and diving deeper into modern frameworks and tools.
-- 🌱 **Learning**: React for Frontend Development, exploring Bootstrap for UI styling, and sharpening my problem-solving skills.
+- 🌱 **Learning** Frontend Development, exploring Bootstrap for UI styling, and sharpening my problem-solving skills.
 - 👯 **Looking to collaborate on**: Web development projects, particularly Frontend/UI/UX, and any tech-driven challenges!
 - 💬 **Ask me about**: Web Development, SQL, Web Design,and more!
 
@@ -17,9 +17,9 @@ Hi, I’m **Om Gupta**, a passionate **MCA** Graduate with a deep love for codin
 Here’s a quick rundown of the technologies I work with:
 
 - **Languages**: C, C++, Python, HTML, PHP, JavaScript
-- **Frameworks & Libraries**:Bootstrap (UI Styling)
+- **Frameworks & Libraries**:Bootstrap 
 - **Tools**: XAMPP, Git, VS Code, Microsoft excel, & Matplotlib Libary.
-- **Documentation**: Microsoft Word, Microsoft Powerpoint(Presentation)
+- **Documentation**: Microsoft Word, Microsoft Powerpoint
 
 ## 📈 My Favourite Programming Languages
 
