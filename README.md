@@ -1,44 +1,73 @@
-# Welcome to My Profile! 👋
+# 👨‍💻 Om Gupta
 
+**Aspiring SDET | MCA @ MAKAUT | Passionate about Testing & Web Development**
 
-
-Hi, I’m **Om Gupta**, a passionate **MCA** Graduate with a deep love for coding and creating impactful web experiences. Whether you're here to explore my projects, collaborate on something exciting, or learn more about my work, I’m thrilled you stopped by!
-
-## 🚀 About Me
-
-- 🔭 **Currently working on**: Updating my skills and diving deeper into modern frameworks and tools.
-- 🌱 **Learning** Frontend Development, exploring Bootstrap for UI styling, and sharpening my problem-solving skills.
-- 👯 **Looking to collaborate on**: Web development projects, particularly Frontend/UI/UX, and any tech-driven challenges!
-- 💬 **Ask me about**: Web Development, SQL, Web Design,and more!
-
-
-## 💻 Skills & Technologies
-
-Here’s a quick rundown of the technologies I work with:
-
-- **Languages**: C, C++, Python, HTML, PHP, JavaScript
-- **Frameworks & Libraries**:Bootstrap 
-- **Tools**: XAMPP, Git, VS Code, Microsoft excel, & Matplotlib Libary.
-- **Documentation**: Microsoft Word, Microsoft Powerpoint
-
-## 📈 My Favourite Programming Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=OptimistGuy03&show_icons=true&hide_title=true&hide_border=true&layout=compact&theme=radical)
-
-## 🌍 Find Me Online
-
-- [GitHub](https://github.com/OptimistGuy03/)
-
-
-## 📬 How to Reach Me
-
-I’m always open to new connections! Whether it's for collaboration, tech talks, or just friendly discussions, feel free to reach out:
-
-## 🤝 Support & Contributions
-
-If you like my work, consider starring my projects on GitHub! It means a lot and keeps me motivated to continue improving and sharing my code with the community.
+Welcome to my GitHub profile! I'm Om Gupta, a dedicated and enthusiastic Software Development Engineer in Test (SDET) in training, with a Master’s in Computer Applications from MAKAUT. I love building, testing, and ensuring quality in software systems, and I'm constantly learning new tools and technologies to improve my craft.
 
 ---
 
-Thank you for visiting my profile, and I look forward to connecting with you soon! 😊
+## 🚀 About Me
 
+- 🎓 MCA Graduate from **Maulana Abul Kalam Azad University of Technology (MAKAUT)**
+- 🧪 Currently training at **QSpiders** in Software Testing (Manual + Automation)
+- 💻 Passionate about **quality assurance, coding, and building reliable software**
+- 🌱 Continuously learning and upskilling through **certifications & real-world projects**
+
+---
+
+## 🛠️ Skills & Technologies
+
+### 👨‍💻 Languages
+- C, C++, Python, HTML, JavaScript, PHP
+
+### 🧪 Testing
+- Manual Testing (in-depth knowledge of SDLC, STLC, Bug Life Cycle)
+- Learning Selenium, TestNG, and Automation Tools
+
+### 💡 Frameworks & Tools
+- Bootstrap, XAMPP, Git, VS Code, Microsoft Excel, Matplotlib
+
+### 📄 Documentation
+- Microsoft Word, PowerPoint
+
+---
+
+## 📂 Projects
+
+### 🔐 DoctoPro – Medical Data Authentication System
+> A secure system designed to verify the authenticity and integrity of medical data using validation mechanisms and user interfaces.
+
+- Technologies: Python, HTML/CSS, PHP
+- Role: Full-stack development & testing
+- Duration: Oct 2023 – Jun 2024
+
+---
+
+## 📜 Certifications
+
+- 🎖️ Google IT Support Professional (Coursera)
+- 🎖️ Google Gemini A-Z (Udemy)
+- 🎖️ Web Design for Everybody (Coursera)
+- 🎖️ The Joy of Computing using Python (NPTEL)
+- 🎖️ Computer Communications (Coursera)
+
+---
+
+## 🌐 Connect With Me
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/your-link/)  
+- 🗺️ Location: Kolkata, West Bengal, India
+
+---
+
+## 🤝 Let's Collaborate
+
+I'm open to opportunities in:
+- ✅ Software Testing (Manual / Automation)
+- ✅ SDET Internships / Entry-Level Roles
+
+If you find my work helpful or interesting, feel free to ⭐ star the repos or reach out to connect. Let's build something amazing together!
+
+---
+
+_Thanks for visiting my profile! 🚀_
