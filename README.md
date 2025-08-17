@@ -37,7 +37,7 @@ Welcome to my GitHub profile! I'm Om Gupta, a dedicated and enthusiastic Softwar
 ### 🔐 DoctoPro – Medical Data Authentication System
 > A secure system designed to verify the authenticity and integrity of medical data using validation mechanisms and user interfaces.
 
-- Technologies: Python, HTML/CSS, PHP
+- Technologies: Python, HTML/CSS, PHP, SQL
 - Role: Full-stack development & testing
 - Duration: Oct 2023 – Jun 2024
 
@@ -48,7 +48,6 @@ Welcome to my GitHub profile! I'm Om Gupta, a dedicated and enthusiastic Softwar
 - 🎖️ Google IT Support Professional (Coursera)
 - 🎖️ Google Gemini A-Z (Udemy)
 - 🎖️ Web Design for Everybody (Coursera)
-- 🎖️ The Joy of Computing using Python (NPTEL)
 - 🎖️ Computer Communications (Coursera)
 
 ---
