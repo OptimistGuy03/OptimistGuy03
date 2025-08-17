@@ -1,6 +1,6 @@
-# 👨‍💻 Om Gupta
+# Om Gupta
 
-**Aspiring SDET | MCA @ MAKAUT | Passionate about Testing & Web Development**
+**Aspiring SDET | MCA @ MAKAUT**
 
 Welcome to my GitHub profile! I'm Om Gupta, a dedicated and enthusiastic Software Development Engineer in Test (SDET) in training, with a Master’s in Computer Applications from MAKAUT. I love building, testing, and ensuring quality in software systems, and I'm constantly learning new tools and technologies to improve my craft.
 
@@ -50,13 +50,6 @@ Welcome to my GitHub profile! I'm Om Gupta, a dedicated and enthusiastic Softwar
 - 🎖️ Web Design for Everybody (Coursera)
 - 🎖️ The Joy of Computing using Python (NPTEL)
 - 🎖️ Computer Communications (Coursera)
-
----
-
-## 🌐 Connect With Me
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/your-link/)  
-- 🗺️ Location: Kolkata, West Bengal, India
 
 ---
 
