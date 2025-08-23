@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm Om Gupta, a dedicated and enthusiastic Softwar
 
 ## 🚀 About Me
 
-- 🎓 MCA Graduate from **Maulana Abul Kalam Azad University of Technology (MAKAUT)**
+- 🎓 MCA Graduate from **Maulana Abul Kalam Azad University of Technology**
 - 🧪 Currently training in **Software Engineer**
 - 💻 Passionate about **quality assurance, coding, and building reliable software**
 - 🌱 Continuously learning and upskilling through **certifications & real-world projects**
