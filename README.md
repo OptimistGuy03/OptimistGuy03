@@ -1,15 +1,15 @@
 # Om Gupta
 
-**Aspiring SDET | MCA @ MAKAUT**
+**Aspiring Software Engineer | MCA**
 
-Welcome to my GitHub profile! I'm Om Gupta, a dedicated and enthusiastic Software Development Engineer in Test (SDET) in training, with a Master’s in Computer Applications from MAKAUT. I love building, testing, and ensuring quality in software systems, and I'm constantly learning new tools and technologies to improve my craft.
+Welcome to my GitHub profile! I'm Om Gupta, a dedicated and enthusiastic Software Development Engineer in training, with a Master’s in Computer Applications from MAKAUT. I love building, testing, and ensuring quality in software systems, and I'm constantly learning new tools and technologies to improve my craft.
 
 ---
 
 ## 🚀 About Me
 
 - 🎓 MCA Graduate from **Maulana Abul Kalam Azad University of Technology (MAKAUT)**
-- 🧪 Currently training at **QSpiders** in Software Testing (Manual + Automation)
+- 🧪 Currently training in **Software Engineer**
 - 💻 Passionate about **quality assurance, coding, and building reliable software**
 - 🌱 Continuously learning and upskilling through **certifications & real-world projects**
 
@@ -50,13 +50,6 @@ Welcome to my GitHub profile! I'm Om Gupta, a dedicated and enthusiastic Softwar
 - 🎖️ Web Design for Everybody (Coursera)
 - 🎖️ Computer Communications (Coursera)
 
----
-
-## 🤝 Let's Collaborate
-
-I'm open to opportunities in:
-- ✅ Software Testing (Manual / Automation)
-- ✅ SDET Internships / Entry-Level Roles
 
 If you find my work helpful or interesting, feel free to ⭐ star the repos or reach out to connect. Let's build something amazing together!
 
