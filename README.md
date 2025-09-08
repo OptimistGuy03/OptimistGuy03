@@ -1,4 +1,4 @@
-# Om Gupta
+# OM GUPTA
 
 **Aspiring Software Engineer | M.C.A in Computer Science, School of Information Science & Technology, MAKAUT, WB**
 
