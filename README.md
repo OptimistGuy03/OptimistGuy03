@@ -18,11 +18,12 @@ Welcome to my GitHub profile! I'm Om Gupta, a dedicated and enthusiastic Softwar
 ## 🛠️ Skills & Technologies
 
 ### 👨‍💻 Languages
-- C, C++, Python, HTML, JavaScript, PHP
+- C, C++, Python, HTML, JavaScript, Java
+
 
 ### 🧪 Testing
 - Manual Testing (in-depth knowledge of SDLC, STLC, Bug Life Cycle)
-- Learning Selenium, TestNG, and Automation Tools
+- Database Testing
 
 ### 💡 Frameworks & Tools
 - Bootstrap, XAMPP, Git, VS Code, Microsoft Excel, Matplotlib
@@ -35,10 +36,11 @@ Welcome to my GitHub profile! I'm Om Gupta, a dedicated and enthusiastic Softwar
 ## 📂 Projects
 
 ### 🔐 DoctoPro – Medical Data Authentication System
-> A secure system designed to verify the authenticity and integrity of medical data using validation mechanisms and user interfaces.
+> DoctoPro Medical Data Authentication is a secure, reliable, and rigorously designed process that upholds the
+integrity, accuracy, and authenticity of all medical data within the system.
 
-- Technologies: Python, HTML/CSS, PHP, SQL
-- Role: Full-stack development & testing
+- Technologies: RSA, HTML/CSS, PHP, SQL
+- Role: Full-stack development & tester
 - Duration: Oct 2023 – Jun 2024
 
 ---
@@ -46,9 +48,10 @@ Welcome to my GitHub profile! I'm Om Gupta, a dedicated and enthusiastic Softwar
 ## 📜 Certifications
 
 - 🎖️ Google IT Support Professional (Coursera)
-- 🎖️ Google Gemini A-Z (Udemy)
-- 🎖️ Web Design for Everybody (Coursera)
-- 🎖️ Computer Communications (Coursera)
+- 🎖️ Python for Everybody Specialization (Coursera)
+- 🎖️ Web Design for Everybody Specialization (Coursera)
+- 🎖️ Computer Communications Specialization (Coursera)
+- 🎖️ Google Cybersecurity Professional (Coursera)
 
 
 If you find my work helpful or interesting, feel free to ⭐ star the repos or reach out to connect. Let's build something amazing together!
