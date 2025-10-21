@@ -2,7 +2,7 @@
 
 **Aspiring Software Engineer**
 
-Welcome to my GitHub profile! I'm Om Gupta, a aspiring software engineer in training, with a Master’s in Computer Applications from MAKAUT. I love building, testing, and ensuring quality in software systems, and I'm constantly learning new tools and technologies to improve my craft.
+Welcome to my GitHub profile! I'm Om Gupta, a aspiring software engineer in training, with a Master’s in Computer Applications from MAKAUT. I love building, testing, and ensuring quality in software systems, and I'm constantly learning new tools and technologies to improve my knowledge.
 
 ---
 
