@@ -2,13 +2,13 @@
 
 **Aspiring Software Engineer**
 
-Welcome to my GitHub profile! I'm Om Gupta, a aspiring software engineer in training, with a Master’s in Computer Applications from Dept. of Computer Application, School of Information Science & Technology, MAKAUT, WB. I love building, testing, and ensuring quality in software systems, and I'm constantly learning new tools and technologies to improve my knowledge.
+Welcome to my GitHub profile! I'm Om Gupta, a aspiring software engineer in training, with a Master’s in Computer Applications from Department of Computer Application, School of Information Science & Technology, MAKAUT, WB. I love building, testing, and ensuring quality in software systems, and I'm constantly learning new tools and technologies to improve my knowledge.
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 MCA Graduate from **Dept. of Computer Application, School of Information Science & Technology, MAKAUT, WB**
+- 🎓 MCA Graduate from **Department of Computer Application, School of Information Science & Technology, MAKAUT, WB**
 - 🧪 Currently pursuing training in **Software Testing using Java**.
 - 💻 Passionate about **quality assurance, testing, and building reliable software**
 - 🌱 Continuously learning and upskilling through **certifications & Projects**
