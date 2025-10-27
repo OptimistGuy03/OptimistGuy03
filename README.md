@@ -2,7 +2,7 @@
 
 **Former Student at Maulana Abul Kalam Azad University of Technology, West Bengal**
 
-Welcome to my GitHub profile! I'm Om Gupta, a aspiring software engineer in training, with a Master’s in Computer Applications from Department of Computer Application, School of Information Science & Technology, MAKAUT, WB. I love building, testing, and ensuring quality in software systems, and I'm constantly learning new tools and technologies to improve my knowledge.
+Welcome to my GitHub profile! I'm a aspiring software engineer in training, with a Master’s in Computer Applications from Department of Computer Application, School of Information Science & Technology, MAKAUT, WB. I love building, testing, and ensuring quality in software systems, and I'm constantly learning new tools and technologies to improve my knowledge.
 
 ---
 
